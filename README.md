@@ -1,6 +1,6 @@
 # Musical Paddle
 
-This program was built to turn my Kappa Kappa Psi (honorary band service fraternity) paddle into a music and lights show that would play our school's fight song, Buckeye Battle Cry, using an Adafruit Trinket 5V (ATtiny85 @ 8MHz). The `MusicalPaddle.ino` file also contains code to play Hang on Sloopy, but it was not used in the final project.
+<a href="https://youtu.be/CesO73p4aDg"><img src="https://i.imgur.com/yYl3cS0.png" align="left" height="200px" alt="Musical Paddle" title="YouTube video of the musical paddle in action"></a>This program was built to turn my Kappa Kappa Psi (honorary band service fraternity) paddle into a music and lights show that would play our school's fight song, "Buckeye Battle Cry," using an Adafruit Trinket 5V (ATtiny85 @ 8MHz). The `MusicalPaddle.ino` file also contains code to play "Hang on Sloopy," but it was not used in the final project.
 
 By Colin A. Williams (2018)
 
